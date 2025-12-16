@@ -2,7 +2,7 @@
 sup...
 # Muhammad Nasih Sadik
 
-Aspiring Biomedical Engineer | Curious about the Medical Industry | Learning C Programming  
+Aspiring Biomedical Engineer | Curious about the Medical Industry | Learning C Programming  | Learning Python
 Thrissur, Kerala, India
 
 [![LinkedIn: Muhammad Nasih Sadik](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohdnasihh/)](https://www.linkedin.com/in/mohdnasihh/)
@@ -31,7 +31,11 @@ Thrissur, Kerala, India
 ## 🏆 Achievements
 
 - Completed **AI for IoT** Boot Camp (ASAP Kerala & Riglabs, June 2025)
-- Completed Front-End Development and Cloud through the IBM SkillsBuild platform. 
+- Completed Front-End Development and Cloud through the IBM SkillsBuild platform.
+- NPTEL certification in Human Physiology
+- NPTEL certification in Cognition and Computation
+  
+ 
 
 ## 📚 Education
 
